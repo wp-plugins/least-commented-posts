@@ -1,6 +1,7 @@
 ===Least commented posts plugins===
 Contributors: 小可, ktkiss
 Tags: Least,Post,commented
+Donate link: http://xiaoke.name/
 Requires at least: 2.7
 Tested up to: 3.4.2
 Stable tag: 1.0.0.3

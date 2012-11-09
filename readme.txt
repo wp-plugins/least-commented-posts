@@ -5,7 +5,7 @@ Requires at least: 2.7
 Tested up to: 3.4.2
 Stable tag: 1.0.0.3
 
-本插件让你罗列出最少评论的文章，让一些被遗忘的优秀文章得以重见天日，欢迎大家的使用。
+冷评文章插件：罗列出最少评论的文章。Cold rated articles plugin: list of least-reviewed papers.
 
 
 == Description ==

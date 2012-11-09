@@ -14,7 +14,9 @@ Stable tag: 1.0.0.3
 
 [xiaoke](http://xiaoke.name/), a love fantasy boy, so toss out the stuff, like to [xiaoke](http://xiaoke.name/) make friends, check out [http://xiaoke.name/](http://xiaoke.name/)
 
+插件帮助页地址：[http://xiaoke.name/798.html](http://xiaoke.name/798.html)
 
+plugins help page address:[http://xiaoke.name/798.html](http://xiaoke.name/798.html)
 
 在侧边栏列出评论最少的文章，当然，你也可以修改成评论最多的文章，把ASC改成DESC就可以了，不过要到修改文件中去改，把其中$cold_post_order = ASC 的ASC修改成DESC就是热评文章了。
 
